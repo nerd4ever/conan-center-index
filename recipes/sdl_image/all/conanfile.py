@@ -87,7 +87,7 @@ class SDLImageConan(ConanFile):
         if self.options.with_libpng:
             self.requires("libpng/1.6.40")
         if self.options.with_libwebp:
-            self.requires("libwebp/1.3.1")
+            self.requires("libwebp/1.3.2")
 
     def validate(self):
         if self.options.shared and not self.dependencies["sdl"].options.shared:
