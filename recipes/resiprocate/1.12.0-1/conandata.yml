@@ -1,0 +1,7 @@
+sources:
+  "1.12.0-1":
+    url: https://github.com/nerd4ever/resiprocate/archive/refs/heads/1.12.0-1.tar.gz
+    sha256: 10bdafbfbc2413a3b1456855908b2241648ef6c13fe6a43eac62eccf436af14e
+  "1.12.0":
+    url: https://www.resiprocate.org/files/pub/reSIProcate/releases/resiprocate-1.12.0.tar.gz
+    sha256: 046826503d3c8682ae0e42101b28f903c5f988235f1ff4a98dbfb9066d0d3d49
